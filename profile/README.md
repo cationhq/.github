@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/kitty.png">
+    <img src="../assets/kitty.png">
 </p>
 
 Somos uma comunidade de tecnologia.
